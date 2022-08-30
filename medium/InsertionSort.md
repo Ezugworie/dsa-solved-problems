@@ -1,13 +1,13 @@
 ````java
 /* 
    Time Complexity
-     Best Time Complexity:O(n)
-	 Average Time Complexity:O(n^2)
-	 Worst Time Complexity:O(n^2)
+   - Best Time Complexity:O(n)
+   - Average Time Complexity:O(n^2)
+   - Worst Time Complexity:O(n^2)
      
    Space Complexity
-     No auxiliary space is required in Linear Search implementation.
-	 Hence space complexity is:O(1)
+   - No auxiliary space is required in Linear Search implementation.
+   - Hence space complexity is:O(1)
 */
 
 public int[] sortArray(int[] nums) {
